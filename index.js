@@ -17,6 +17,6 @@ let randomNumber = Math.random(5);
 
 let randomInteger = randomNumber;
 
-randomInteger = Math.floor(0);
+randomInteger = Math.round(0);
 
 let randomUserID = Math.random(Math.floor() * 1000000020) + 10000000001;
