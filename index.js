@@ -19,4 +19,4 @@ let randomInteger = randomNumber;
 
 randomInteger = Math.round(0);
 
-let randomUserID = Math.random(Math.floor() * 1000000020) + 10000000001;
+let randomUserID = Math.random(Math.floor(1) * 1000000020) + 1;
