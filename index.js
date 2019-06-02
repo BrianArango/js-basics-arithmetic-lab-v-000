@@ -13,7 +13,7 @@ newID += 1000000000;
 let ageIsValid = currentAge;
 ageIsValid = Number.isInteger();
 
-let randomNumber = Math.random();
+let randomNumber = Math.random(5);
 
 let randomInteger = randomNumber;
 
